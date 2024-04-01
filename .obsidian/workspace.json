@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "fcd1b709581972b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "93cf446c9224e651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e5e9c5f4efdc877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📙 learning/BART.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0169d96847adeddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📙 learning/Indie-techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4695309b63f6d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📙 learning/BERT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba53f7161c528d6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "74984a5f5d4181a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1e3f1cf6ea4eef7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a48de7f575e32860",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Sequenc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f9791d352980c47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d33ef8f8d7259ca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af87b2cc246300f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ff833fe83256ade",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📙 learning/BART.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3177b4e2cd6dd090",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📙 learning/BART.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a216eb9ab32906e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb76080a9e008f13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📙 learning/BART.md"
+              }
+            }
+          },
+          {
+            "id": "1a5879b13ea5d471",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "1a5879b13ea5d471",
+  "lastOpenFiles": [
+    "README.md",
+    "📙 learning/BERT.md",
+    "📙 learning/BART.md",
+    "📙 learning/Indie-techniques.md",
+    "Untitled.md",
+    "📙 learning/📙 learning.md",
+    "mywork/Keyframe-based listener head generator.md",
+    "🏠 invest/🏠 invest.md",
+    "📙 learning/Transformer.md",
+    "🏠 invest/real estate/Voz sources for RE investment.md",
+    "🏠 invest/real estate",
+    "🏠 invest/real estate/Foreign sources for RE investment.md",
+    "🏠 invest/stock",
+    "lucasPoseGPTQuantizationbased3D2022.md",
+    "mywork/mywork.md",
+    "mywork",
+    "🏠 invest",
+    "Home.md",
+    "📙 learning"
+  ]
+}
